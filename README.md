@@ -1,2 +1,2 @@
 # Reyeader
-code that reads text for robots
+Code that reads text for robots
